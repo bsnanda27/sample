@@ -1,0 +1,171 @@
+{
+  "Header": {
+    "title": "Global Textile Solutions.",
+    "paragraph": "Exporting Excellence."
+  },
+  "About": {
+    "paragraph": "Based in Tirupur, the heart of India's textile industry, our export company specializes in manufacturing and exporting high-quality textile products to global markets. With a strong focus on customer satisfaction and timely delivery, we offer a diverse range of products including fabrics, apparel, and home textiles. Our state-of-the-art manufacturing facilities, experienced team of professionals, and adherence to international quality standards enable us to deliver superior products that meet the needs and preferences of our global clientele. Contact us to learn more about how we can help you meet your textile needs.",
+    "Why": [
+      "Lorem ipsum dolor",
+      "Tempor incididunt",
+      "Lorem ipsum dolor",
+      "Incididunt ut labore"
+    ],
+    "Why2": [
+      "Aliquip ex ea commodo",
+      "Lorem ipsum dolor",
+      "Exercitation ullamco",
+      "Lorem ipsum dolor"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Women",
+      "largeImage": "img/portfolio/2056343-04-2.jpg",
+      "smallImage": "img/portfolio/2056343-04-2.jpg"
+    },
+    {
+      "title": "Men",
+      "largeImage": "img/portfolio/AM6082_351_f.webp",
+      "smallImage": "img/portfolio/AM6082_351_f.webp"
+    },
+    {
+      "title": "Kids",
+      "largeImage": "img/portfolio/61YHtYYabpL._AC._SR360,460.jpg",
+      "smallImage": "img/portfolio/61YHtYYabpL._AC._SR360,460.jpg"
+    }
+  ],
+  "Products": [
+    {
+      "title": "Women",
+      "largeImage": "img/portfolio/2056343-04-2.jpg",
+      "smallImage": "img/portfolio/2056343-04-2.jpg"
+    },
+    {
+      "title": "Men",
+      "largeImage": "img/portfolio/AM6082_351_f.webp",
+      "smallImage": "img/portfolio/AM6082_351_f.webp"
+    },
+    {
+      "title": "Kids",
+      "largeImage": "img/portfolio/61YHtYYabpL._AC._SR360,460.jpg",
+      "smallImage": "img/portfolio/61YHtYYabpL._AC._SR360,460.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-archive",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "Tirupur asdasdasdasd,asdasd,asda214123",
+    "phone": "+1 123 456 1234",
+    "email": "info@company.com",
+    "facebook": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "Features": [
+    {
+      "icon": "fa fa-archive",
+      "title": "Extensive Fabric Collection",
+      "text": "Explore our vast range of exquisite fabrics which is suitable for your requirments with our experts."
+    },
+    {
+      "icon": "fa fa-cubes",
+      "title": "Global Shipping",
+      "text": "Efficient worldwide delivery, ensuring your fabrics reach you on time."
+    },
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Customized Solutions",
+      "text": "Tailor-made fabric options to meet your specific requirements and cater to your unique design needs."
+    },
+    {
+      "icon": "fa fa-shield",
+      "title": "Quality Assurance",
+      "text": "Our fabrics undergo rigorous quality checks to guarantee superior quality and meet international standards"
+    }
+  ]
+}
